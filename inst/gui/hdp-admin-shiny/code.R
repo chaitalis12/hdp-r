@@ -1,4 +1,4 @@
-Statement1 <-"HDM Builder chaitali sawant"
+Statement1 <-"HDM Builder"
 Statement2 <- "Model Name"
 Statement3 <- "The name of your model"
 Statement4 <- "Decision"
